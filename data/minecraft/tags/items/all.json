@@ -1,0 +1,7 @@
+{
+    "description": "All items, including air",
+    "values": [
+        "#minecraft:all_but_air",
+        "minecraft:air"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"description": "Stripped logs and stems, not including stripped wood (bark) blocks and stripped hyphae",
+	"values": [
+		"#minecraft:stripped_overworld_logs",
+		"#minecraft:stripped_stems"
+	]
+}

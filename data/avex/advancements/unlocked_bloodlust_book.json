@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "avex:bloodlust_book"
+            }
+        }
+    },
+    "rewards": {
+        "function": "avex:spawn/bloodlust_book"
+    }
+}

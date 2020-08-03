@@ -1,0 +1,9 @@
+{
+	"description": "Plants that generate in the Nether, i.e. fungi, roots, sprouts and vines",
+	"values": [
+		"#minecraft:fungi",
+		"#minecraft:nether_roots",
+		"#minecraft:nether_vines",
+		"minecraft:nether_sprouts"
+	]
+}

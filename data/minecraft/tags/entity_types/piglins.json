@@ -1,0 +1,7 @@
+{
+	"description": "Piglin-type mobs",
+	"values": [
+		"minecraft:piglin",
+		"minecraft:zombified_piglin"
+	]
+}

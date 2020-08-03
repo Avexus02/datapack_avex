@@ -1,0 +1,7 @@
+{
+	"description": "Stripped stems and hyphae",
+	"values": [
+		"#minecraft:stripped_stems",
+		"#minecraft:stripped_hyphae"
+	]
+}

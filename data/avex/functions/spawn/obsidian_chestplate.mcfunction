@@ -1,0 +1,5 @@
+# Spawn Obsidian Chestplate
+recipe take @s avex:obsidian_chestplate
+advancement revoke @s only avex:unlocked_obsidian_chestplate
+clear @s minecraft:knowledge_book
+give @s minecraft:leather_chestplate{CustomModelData: 1, Unbreakable: 1b, display:{color:1051676, Name:'{"text":"Obsidian Chestplate", "italic":false}'}, AttributeModifiers:[{Slot:"chest", AttributeName:"generic.attack_speed", Name:"generic.attack_speed", Amount:-0.05, Operation:2, UUID:[I; 100000, 100000, 100000, 100000]}, {Slot:"chest", AttributeName:"generic.movement_speed", Name:"generic.movement_speed", Amount:-0.08, Operation:2, UUID:[I; 100001, 100000, 100000, 100000]}, {Slot:"chest", AttributeName:"generic.knockback_resistance", Name:"generic.knockback_resistance", Amount:0.1, Operation:2, UUID:[I; 100002, 100000, 100000, 100000]}, {Slot:"chest", AttributeName:"generic.armor", Name:"generic.armor", Amount:7, Operation:0, UUID:[I; 100003, 100000, 100000, 100000]}, {Slot:"chest", AttributeName:"generic.armor_toughness", Name:"generic.armor_toughness", Amount:3, Operation:0, UUID:[I; 100004, 100000, 100000, 100000]}], custom_item:"obsidian_chestplate"}

@@ -1,0 +1,7 @@
+{
+	"description": "Dead coral fans and plants, not including dead coral blocks",
+	"values": [
+		"#minecraft:dead_coral_fans",
+		"#minecraft:dead_coral_plants"
+	]
+}

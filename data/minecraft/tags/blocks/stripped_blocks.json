@@ -1,0 +1,7 @@
+{
+	"description": "Stripped logs, wood, stems and hyphae",
+	"values": [
+		"#minecraft:stripped_overworld_blocks",
+		"#minecraft:stripped_nether_blocks"
+	]
+}

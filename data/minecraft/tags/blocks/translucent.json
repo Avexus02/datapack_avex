@@ -1,0 +1,10 @@
+{
+	"description": "Transparent blocks whose models support translucency",
+	"values": [
+		"#minecraft:glass",
+		"#minecraft:glass_panes",
+		
+		"minecraft:tripwire",
+		"minecraft:nether_portal"
+	]
+}

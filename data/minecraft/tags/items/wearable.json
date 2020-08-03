@@ -1,0 +1,8 @@
+{
+	"description": "Everything that can be inserted in an armour slot",
+	"values": [
+		"#minecraft:armor",
+		"#minecraft:heads",
+		"minecraft:elytra"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"description": "Items that support damage and can have a durability bar",
+	"values": [
+		"#minecraft:armor",
+		"#minecraft:axes",
+		"#minecraft:pickaxes",
+		"#minecraft:shovels",
+		"#minecraft:swords",
+		"#minecraft:food_on_a_stick",
+
+		"minecraft:elytra",
+		"minecraft:fishing_rod",
+		"minecraft:flint_and_steel",
+		"minecraft:shears",
+		"minecraft:trident"
+	]
+}

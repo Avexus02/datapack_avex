@@ -1,0 +1,16 @@
+{
+	"description": "Block entities that can store items, not including enchanting tables",
+	"values": [
+		"#minecraft:furnaces",
+		"#minecraft:campfires",
+		"#minecraft:shulker_boxes",
+
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+		"minecraft:dispenser",
+		"minecraft:dropper",
+		"minecraft:jukebox",
+		"minecraft:barrel",
+		"minecraft:lectern"
+	]
+}

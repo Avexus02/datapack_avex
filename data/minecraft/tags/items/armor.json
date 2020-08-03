@@ -1,0 +1,12 @@
+{
+	"description": "Wearable items that grant extra armour",
+	"values": [
+		"#minecraft:chainmail_armor",
+		"#minecraft:diamond_armor",
+		"#minecraft:golden_armor",
+		"#minecraft:iron_armor",
+		"#minecraft:leather_armor",
+		"#minecraft:netherite_armor",
+		"minecraft:turtle_helmet"
+	]
+}

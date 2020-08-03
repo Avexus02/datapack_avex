@@ -1,0 +1,8 @@
+{
+	"description": "Mobs that burn when in sunlight",
+	"values": [
+		"#minecraft:zombies",
+		"#minecraft:skeletons",
+		"minecraft:phantom"
+	]
+}

@@ -1,0 +1,2 @@
+execute positioned ^ ^ ^0.5 unless block ~ ~ ~ #passable if block ~ ~1 ~ #passable align y run summon area_effect_cloud ~ ~1 ~ {Duration: 0s, Tags:["avex_raycast_end"]}
+execute positioned ^ ^ ^0.5 if block ~ ~ ~ #passable run function avex:scripts/raycast

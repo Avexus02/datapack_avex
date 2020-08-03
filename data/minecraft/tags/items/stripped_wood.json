@@ -1,0 +1,7 @@
+{
+	"description": "Stripped wood (bark) blocks and stripped hyphae",
+	"values": [
+		"#minecraft:stripped_overworld_wood",
+		"#minecraft:stripped_hyphae"
+	]
+}

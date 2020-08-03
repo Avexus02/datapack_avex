@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "avex:staff_of_the_end"
+            }
+        }
+    },
+    "rewards": {
+        "function": "avex:spawn/staff_of_the_end"
+    }
+}

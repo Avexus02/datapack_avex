@@ -1,0 +1,7 @@
+{
+	"description": "All blocks in the vanilla game, except air blocks, for use in CanBreak/CanPlaceOn or /fill replace for example",
+	"values": [
+		"#minecraft:cubic",
+		"#minecraft:noncubic"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"description": "Blocks that cannot be reasonably broken by TNT. Limit arbitrarily set at 100",
+	"values":[
+		"#minecraft:unbreakable",
+		"#minecraft:liquids",
+		"#minecraft:obsidian",
+		
+		"#minecraft:anvil",
+
+		"minecraft:ancient_debris",
+		"minecraft:enchanting_table",
+		"minecraft:ender_chest",
+		"minecraft:netherite_block",
+		"minecraft:respawn_anchor"
+	]
+}

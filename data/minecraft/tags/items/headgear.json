@@ -1,0 +1,7 @@
+{
+	"description": "Everything that can be worn on the head slot without the use of commands",
+	"values": [
+		"#minecraft:helmets",
+		"#minecraft:heads"
+	]
+}

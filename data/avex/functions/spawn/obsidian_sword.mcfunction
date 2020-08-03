@@ -1,0 +1,5 @@
+# Spawn Bloodlust Book
+recipe take @s avex:obsidian_sword
+advancement revoke @s only avex:unlocked_obsidian_sword
+clear @s minecraft:knowledge_book
+give @s minecraft:netherite_sword{CustomModelData: 2, HideFlags: 63, display:{Name:'{"text":"Obsidian Sword", "italic":false}', Lore:['{"text":""}', '{"text":"When in main hand:", "color":"gray", "italic":false}', '{"text":" 14 Attack Damage", "color":"dark_green", "italic":false}', '{"text":" 0.5 Attack Speed", "color":"dark_green", "italic":false}', '{"text":"-20% Movement Speed", "color":"red", "italic":false}']}, AttributeModifiers:[{Slot:"mainhand", AttributeName:"generic.attack_speed", Name:"generic.attack_speed", Amount:-3.5, Operation:0, UUID:[I; 100000, 100000, 100000, 100000]}, {Slot:"mainhand", AttributeName:"generic.attack_damage", Name:"generic.attack_damage", Amount:14.0, Operation:0, UUID:[I; 100000, 100001, 100000, 100000]}, {AttributeName:"generic.movement_speed", Name:"generic.movement_speed", Amount:-0.2, Operation:2, UUID:[I; 100000, 100002, 100000, 100000]}]}

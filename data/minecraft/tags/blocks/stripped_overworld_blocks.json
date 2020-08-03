@@ -1,0 +1,7 @@
+{
+	"description": "Stripped overworld logs and wood",
+	"values": [
+		"#minecraft:stripped_overworld_logs",
+		"#minecraft:stripped_overworld_wood"
+	]
+}

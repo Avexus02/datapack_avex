@@ -1,0 +1,21 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "head": {
+        "nbt": "{custom_item:\"obsidian_helmet\"}"
+      },
+      "chest": {
+        "nbt": "{custom_item:\"obsidian_chestplate\"}"
+      },
+      "legs": {
+        "nbt": "{custom_item:\"obsidian_leggings\"}"
+      },
+      "feet": {
+        "nbt": "{custom_item:\"obsidian_boots\"}"
+      }
+    }
+  }
+}
